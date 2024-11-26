@@ -7,21 +7,21 @@ Vocês são a equipe de desenvolvimento responsável por um jogo de "Aventura em
 
 Tarefas:
 
-## &nbsp;Engenharia Reversa (1 alunos):
+## &nbsp;Engenharia Reversa (Amanda):
 - Explore o jogo e desvende sua lógica, mapeamento e elementos-chave.
 - Documentem a estrutura do jogo, criando diagramas e descrições.
 - Utilizem ferramentas de engenharia reversa para auxiliar na análise.
 
-## &nbsp;Manutenção Corretiva (1 aluno):
+## &nbsp;Manutenção Corretiva (Jonatas):
 - Encontrem e corrija os bugs presentes no jogo (ex: mensagens de erro, travamentos).
 - Testem o jogo exaustivamente para garantir a estabilidade após as correções.
 
-## &nbsp;Manutenção Adaptativa (1 aluno):
+## &nbsp;Manutenção Adaptativa (Rafael):
 - Adaptem o jogo para diferentes plataformas (Mobile, Windows, macOS - escolha uma destas plataformas). 
 - Implemente suporte para diferentes resoluções de tela.
 - Criem uma interface gráfica simples para o jogo (opcional).
 
-## &nbsp;Manutenção Perfectiva (1 aluno):
+## &nbsp;Manutenção Perfectiva (Paulo):
 - Adicione novas funcionalidades ao jogo (ex: inventário, combate, quebra-cabeças).
 - Aprimorem a experiência do jogador com novos desafios e interações.
 - Equilibrem a dificuldade do jogo para torná-lo mais desafiador e interessante.
