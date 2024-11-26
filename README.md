@@ -1,7 +1,15 @@
+## Documentação:
+Link: https://docs.google.com/document/d/1LbTnouXoIWuVhN993Gaq5NbXCgwz-XbD2TFmuxVs-eI/edit?usp=sharing
+
+
+
+
+
+## Explicação da atividade
 # Aventura em Texto
 Exercício de Avaliação Prática - Manutenção de Software - Aventura em Texto
 
-## O Desafio:
+# O Desafio:
 
 Vocês são a equipe de desenvolvimento responsável por um jogo de "Aventura em Texto" chamado "A Floresta Misteriosa". O jogo já foi lançado, mas precisa de melhorias e adaptações. Vocês receberão o arquivo executável do jogo e a missão de revitalizá-lo!
 
